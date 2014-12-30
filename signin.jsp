@@ -24,6 +24,6 @@
 					<a href="#">Mot de passe oublié?</a> -
 					<a href="signup">S'inscrire</a>
 			</div>
-</form>
-</body>
+		</form>
+	</body>
 </html>
