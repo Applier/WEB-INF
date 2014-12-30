@@ -21,6 +21,9 @@
 			<span class="erreur">${form.erreurs['password']}</span>
 			
 			<button>S'inscrire</button>
+			<div class="links">
+					<a href="signin">Se connecter</a>
+			</div>
 		</form>
 	</body>
 </html>
